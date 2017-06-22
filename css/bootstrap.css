@@ -63,6 +63,11 @@ h1 {
   margin: .67em 0;
   font-size: 2em;
 }
+.h1-alt {
+  margin: .67em 0;
+  font-size: 1.3em;
+  color: yellow;
+}
 mark {
   color: #000;
   background: #ff0;
